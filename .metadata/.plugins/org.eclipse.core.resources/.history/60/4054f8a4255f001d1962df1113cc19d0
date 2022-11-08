@@ -1,0 +1,22 @@
+
+public class test_p14 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+
+class Car7th{
+	int num;
+	double gas;
+	void setNum(int n) {
+		num=n;
+		System.out.println("將車號設為"+num);
+	}
+	void setGas(double g) {
+		gas=g;
+		System.out.println("將汽油量設為"+gas);
+	}
+}
